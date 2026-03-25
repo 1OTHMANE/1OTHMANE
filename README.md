@@ -9,8 +9,7 @@
 <h1>👋 Hi, I'm othmane el alami</h1>
 <p><strong>Computer Science Student | Aspiring Software Developer</strong></p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=walidmk7&style=flat&color=red&label=PROFILE+VIEWS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-othmane-el--alami-red?style=flat&logo=linkedin)](https://www.linkedin.com/feed/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-othmane-el--alami-red?style=flat&logo=linkedin)]
 <br>
 </div>
 
