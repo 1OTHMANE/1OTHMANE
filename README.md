@@ -38,7 +38,7 @@
 - 🎓 I’m a **Computer Science Student**.
 - 🚀 Passionate about learning new technologies and software development.
 - 💻 Currently building projects to improve my skills.
-- 📫 Connect with me on Instagram: **[walid_coding_10](https://instagram.com/walid_coding_10)**
+- 📫 Connect with me on Instagram: **[el.othmanee](https://www.instagram.com/el.othmanee/)**
 
 ```javascript
 const othmane = {
