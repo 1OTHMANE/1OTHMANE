@@ -10,7 +10,7 @@
 <p><strong>Computer Science Student | Aspiring Software Developer</strong></p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=walidmk7&style=flat&color=red&label=PROFILE+VIEWS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-othmane-el--alami-red?style=flat&logo=linkedin)](https://linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-othmane-el--alami-red?style=flat&logo=linkedin)](https://www.linkedin.com/feed/)
 <br>
 </div>
 
